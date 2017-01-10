@@ -1,5 +1,5 @@
 body {
-  font: Arial, helvetica, sans-serif;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   line-height: 115%;
   background-image: url("https://www.phc-law.com/wp-content/uploads/2013/06/Background-opera-speeddials-community-web-simple-backgrounds.jpg");
   text-align: center;
@@ -9,6 +9,7 @@ h3 {
   color: grey;
 }
 
-.footer {
+footer {
   text-align: left;
+
 }
